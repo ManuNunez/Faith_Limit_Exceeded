@@ -1,0 +1,8 @@
+
+.fle {
+    background-color: #fff;
+}
+
+section:nth-child(odd) {
+    background-color: #f0f0f0;
+}
